@@ -1,0 +1,8 @@
+# pip install -r requirements.txt
+streamlit
+langchain
+python-dotenv
+ipykernel
+langchain_groq
+langchain_core
+langchain_community
